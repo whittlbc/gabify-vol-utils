@@ -1,5 +1,4 @@
 #! /bin/bash
 
-# sudo mkdir /dsetvol
-# sudo mount /dev/xvdh /dsetvol/
-echo "mount_dsetvol"
+mkdir /dsetvol
+mount /dev/xvdh /dsetvol/

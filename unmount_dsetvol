@@ -1,4 +1,3 @@
 #! /bin/bash
 
-# sudo umount /dev/xvdh
-echo "unmount_dsetvol"
+umount /dev/xvdh
